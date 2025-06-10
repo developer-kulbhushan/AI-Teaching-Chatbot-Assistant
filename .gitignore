@@ -1,3 +1,7 @@
+# Local Files
+backend/conversations.json
+backend/backend-env/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
