@@ -17,7 +17,7 @@ These instructions will get you a copy of the project up and running on your loc
    ```
 3. Run the `setup-backend-env.ps1` file:
    ```bash
-   .\run-backend.ps1
+   .\setup-backend-env.ps1
    ```
 4. Create a `.env` file by copying the example file:
    ```bash
